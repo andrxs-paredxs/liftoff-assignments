@@ -8,11 +8,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+This project idea came to light trhough a series odf conversation with some friends about how to sorting our passing affiars some our family members and/or friends about how to management our personal/business affairs. 
+
 ### Features
-Include Features here
+Login main user
+CRUD for manageming personal affairs
+CRUD for shopping for funeral services 
+
 ### Technologies
 Include Technologies here
+C#
+MVC
+MySQL
+...
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to work with API to offer options to users according with their information in the DB
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/w3pnhkn3/lauchcode-lift-off-project
